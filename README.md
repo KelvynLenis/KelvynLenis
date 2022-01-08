@@ -1,8 +1,14 @@
-<h3 display="flex" align="space-between">
-  Welcome to Welcome to KelvynLenis' profile 👋 profile!
+
+<h3>
+  Welcome to KelvynLenis' profile	(￣▽￣)ノ!
 </h3>
+
+<div align="center">
+<img  src="https://c.tenor.com/-TKyQcZRmwkAAAAM/hi-hey.gif" />
+ </div>
+
  
- ## ⚡ Technologies
+ ## 💻 Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -24,7 +30,7 @@
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=KelvynLenis&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" width=400 />
 </p>
 
-# About me
+# About me (￣ω￣;)
 I'm 20 years old student at Federal University of Paraíba(UFPB) in Brazil. I'm a member of a Network's Lab which is currently aiming Time sensitive Networks(TSN) Technologies.
 
 <img align="right" src="https://c.tenor.com/SJzW2_aoAmcAAAAC/will-smith-studying.gif" />
@@ -40,7 +46,8 @@ I'm 20 years old student at Federal University of Paraíba(UFPB) in Brazil. I'm 
 - 📌 Flutter
 - 📌 Cybersecurity
 
-<p align="center">
+<p align="right">
+ 
   <a href="https://github.com/KelvynLenis?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/KelvynLenis"/></a>
   <a href="https://github.com/KelvynLenis?tab=followers">
@@ -50,7 +57,10 @@ I'm 20 years old student at Federal University of Paraíba(UFPB) in Brazil. I'm 
     -->
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KelvynLenis&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+<img align="right" src="https://thumbs.gfycat.com/HatefulInconsequentialDeer-size_restricted.gif" width=250 />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvynLenis&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+
 
 ## Contact
 <p align="center">
@@ -64,5 +74,6 @@ I'm 20 years old student at Federal University of Paraíba(UFPB) in Brazil. I'm 
  <a href="mailto:kmartinslenis30@gmail.com">
    <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" width=35 />
 </a>
+  
  </p>
   
