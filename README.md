@@ -1,6 +1,6 @@
 
 <h3>
-  Welcome to KelvynLenis' profile	(￣▽￣)ノ!
+  Hey there	(￣▽￣)ノ!
 </h3>
 
 <div align="center">
