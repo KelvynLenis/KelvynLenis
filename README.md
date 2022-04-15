@@ -2,11 +2,6 @@
 <h3>
   Hey there	(￣▽￣)ノ!
 </h3>
-
-<div align="center">
-<img  src="https://c.tenor.com/-TKyQcZRmwkAAAAM/hi-hey.gif" />
- </div>
-
  
  ## 💻 Technologies
 
@@ -43,8 +38,8 @@ I'm 20 years old student at Federal University of Paraíba(UFPB) in Brazil. I'm 
 ### Interested on learning:
 
 - 📌 ReactNative
-- 📌 Flutter
-- 📌 Cybersecurity
+- 📌 Vue
+- 📌 Angular
 
 <p align="right">
  
