@@ -59,7 +59,7 @@ I'm 20 years old student at Federal University of Paraíba(UFPB) in Brazil. I'm 
 
 <img align="right" src="https://thumbs.gfycat.com/HatefulInconsequentialDeer-size_restricted.gif" width=250 />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvynLenis&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvynLenis&hide=objective-c&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 
 
 ## Contact
