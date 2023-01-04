@@ -26,7 +26,7 @@
 </p>
 
 # About me (￣ω￣;)
-I'm 20 years old student at Federal University of Paraíba(UFPB) in Brazil. I'm a member of a Network's Lab which is currently doing researches on Time sensitive Networks(TSN) Technologies. I like to spend my free time studying web development and developing some projects.
+I'm 20 years old student at Federal University of Paraíba(UFPB) in Brazil. I'm a member of the Network's Lab(LAR) of UFPB which is currently doing researches on Time sensitive Networks(TSN) Technologies. I like to spend my free time studying web development and developing some projects.
 
 <img align="right" src="https://c.tenor.com/SJzW2_aoAmcAAAAC/will-smith-studying.gif" />
 
@@ -43,16 +43,22 @@ I'm 20 years old student at Federal University of Paraíba(UFPB) in Brazil. I'm 
 
 <p align="right">
  
-  <a href="https://github.com/KelvynLenis?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/KelvynLenis"/></a>
-  <a href="https://github.com/KelvynLenis?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/KelvynLenis?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <!-- <a href="https://github.com/KelvynLenis?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?     logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/KelvynLenis"/>
+  </a>
+  -->
+  
+  <!--
+<a href="https://github.com/KelvynLenis?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/KelvynLenis?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a> -->
   <!--<a href="https://github.com/KelvynLenis/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/>
+</a>
     -->
 </p>
 
-<img align="right" src="https://thumbs.gfycat.com/HatefulInconsequentialDeer-size_restricted.gif" width=250 />
+<!-- <img align="right" src="https://thumbs.gfycat.com/HatefulInconsequentialDeer-size_restricted.gif" width=250 /> -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvynLenis&hide=objective-c&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 
