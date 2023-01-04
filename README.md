@@ -64,8 +64,8 @@ I'm 20 years old student at Federal University of Paraíba(UFPB) in Brazil. I'm 
 
 
 ## Contact
-<p align="center">
-<a title="LinkedIn" target="_blank" href="https://www.linkedin.com/in/kelvyn-lenis-martins-2188301ab/" alt="Dev Pro Tips Discussion & Support Server">
+<div align="center">
+<a title="LinkedIn" href="https://www.linkedin.com/in/kelvyn-lenis-martins-2188301ab/" target="_blank">
    <img width="32px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
 </a>
  <a href="mailto:kmartinslenis30@hotmail.com">
@@ -76,5 +76,5 @@ I'm 20 years old student at Federal University of Paraíba(UFPB) in Brazil. I'm 
    <img src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" width=35 />
 </a>
   
- </p>
+ </div>
   
