@@ -32,12 +32,12 @@ I'm a computer science student at Federal University of Paraíba(UFPB) in Brazil
 ### Currently Learning: 
 - ✏ ReactJS
 - ✏ NodeJS
-- ✏ Time sensitive networks.
+- ✏ Cloud.
 
 ### Interested on learning:
 
 - 📌 ReactNative
-- 📌 Vue
+- 📌 Data analysis
 - 📌 Angular
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvynLenis&hide=objective-c&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
