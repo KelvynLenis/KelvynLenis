@@ -26,7 +26,7 @@
 </p>
 
 # About me (￣ω￣;)
-I'm 20 years old student at Federal University of Paraíba(UFPB) in Brazil. I'm a member of the Network's Lab(LAR) of UFPB which is currently doing researches on Time sensitive Networks(TSN) Technologies. I like to spend my free time studying web development and developing some projects.
+I'm a student at Federal University of Paraíba(UFPB) in Brazil. I'm a member of the Network's Lab(LAR) of UFPB which is currently doing researches on Time sensitive Networks(TSN) Technologies. I like to spend my free time studying web development and developing some projects.
 
 <img align="right" src="https://c.tenor.com/SJzW2_aoAmcAAAAC/will-smith-studying.gif" />
 
