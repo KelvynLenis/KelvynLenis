@@ -25,7 +25,7 @@
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=KelvynLenis&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" width=400 />
 </p>
 
-# About me (￣ω￣;)
+# About me
 I'm a computer science student at Federal University of Paraíba(UFPB) in Brazil. I'm a member of the Network's Lab(LAR) of UFPB which is currently doing researches on Time sensitive Networks(TSN) Technologies. I like to spend my free time studying web development and developing some projects.
 
 <img align="right" src="https://c.tenor.com/SJzW2_aoAmcAAAAC/will-smith-studying.gif" />
