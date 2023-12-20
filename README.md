@@ -1,8 +1,8 @@
 
-<h3>
-  Hey there	(￣▽￣)ノ!
-</h3>
- 
+# About me
+I'm a computer science student at Federal University of Paraíba(UFPB) in Brazil. I'm a Frontend Developer.
+
+
  ## 💻 Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -20,27 +20,12 @@
 
 
 
-<p align="center">
-  <img alt="KelvynLenis's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KelvynLenis&theme=omni&hide_border=true"/ width=400>
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=KelvynLenis&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" width=400 />
-</p>
-
-# About me
-I'm a computer science student at Federal University of Paraíba(UFPB) in Brazil. I'm a member of the Network's Lab(LAR) of UFPB which is currently doing researches on Time sensitive Networks(TSN) Technologies. I like to spend my free time studying web development and developing some projects.
-
-
-### Currently Learning: 
-- ✏ ReactJS
-- ✏ NodeJS
-- ✏ Cloud.
-
-### Interested on learning:
-
-- 📌 ReactNative
-- 📌 Data analysis
-- 📌 Angular
-
+<p align="left">
+<!--   <img alt="KelvynLenis's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KelvynLenis&theme=omni&hide_border=true"/ width=400> -->
+  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=KelvynLenis&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" width=400 />  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvynLenis&hide=objective-c&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+
+</p>
 
 
 ## Contact
