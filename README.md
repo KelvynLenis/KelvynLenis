@@ -1,6 +1,6 @@
 
 # About me
-I'm a computer science student at Federal University of Paraíba(UFPB) in Brazil. I'm a Frontend Developer.
+Graduated in Computer Science at UFPB(Brazil). No profissional experience. Looking to start my career as a frontend/fullstack developer. I've developed projects for my disciplines and for personal purposes. My expertise includes: React, HTML, CSS, Tailwind, JavaScript and TypeScript.
 
 
  ## 💻 Technologies
