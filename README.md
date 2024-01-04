@@ -1,6 +1,6 @@
 
 # About me
-Graduated in Computer Science at UFPB(Brazil). No profissional experience. Looking to start my career as a frontend/fullstack developer. I've developed projects for my disciplines and for personal purposes. My expertise includes: React, HTML, CSS, Tailwind, JavaScript and TypeScript.
+Graduated in Computer Science at UFPB(Brazil). I'm a frontend developer. My expertise includes: React, HTML, CSS, Tailwind, JavaScript and TypeScript.
 
 
  ## 💻 Technologies
