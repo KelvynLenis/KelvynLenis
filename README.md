@@ -1,6 +1,6 @@
 
 # About me
-Graduated in Computer Science at UFPB(Brazil). I'm a frontend developer. My expertise includes: React, HTML, CSS, Tailwind, JavaScript and TypeScript.
+Enthusiast of Software Engineering and specialized on frontend development. Graduated in Computer Science at UFPB(Brazil). My expertise includes: React, Tailwind, NextJS and TypeScript.
 
 
  ## 💻 Technologies
