@@ -22,7 +22,8 @@ Enthusiast of Software Engineering and specialized on frontend development. Grad
 
 <p align="left">
 <!--   <img alt="KelvynLenis's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KelvynLenis&theme=omni&hide_border=true"/ width=400> -->
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=KelvynLenis&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" width=400 />  
+<!--   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=KelvynLenis&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" width=400 />  
+  -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvynLenis&hide=objective-c&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
 
 </p>
